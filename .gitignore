@@ -1,0 +1,12 @@
+.vscode
+*.pyc
+/data
+/data/*
+.DS_Store
+._.DS_Store
+# /models
+.checkpoints
+/.cache/*
+/.cache
+/predicts
+*.pth
